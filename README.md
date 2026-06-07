@@ -3,7 +3,7 @@
 Dự án này chứa các bài tập thực hành và câu trả lời lý thuyết về CSS nâng cao, tập trung vào thiết kế web đáp ứng (Responsive), hiệu ứng chuyển động (Animations) và bộ tiền xử lý SCSS.
 
 📁 Cấu trúc thư mục
-
+``` text
 PBT-05/
 ├── screenshots/
 ├── scss/
@@ -17,6 +17,7 @@ PBT-05/
 ├── responsive.html
 ├── responsive.css
 └── README.md
+```
 
 * screenshots/: Chứa các hình ảnh kết quả của bài tập trên các kích thước màn hình khác nhau.
 * scss/: Thư mục chứa mã nguồn SCSS được tổ chức theo kiến trúc phân mảnh (partials):
