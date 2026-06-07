@@ -44,3 +44,13 @@
 | ≥ 992px           | Laptop nhỏ        | 4 cột                     |
 | ≥ 1200px          | Desktop           | 4 cột                     |
 | ≥ 1400px          | Màn hình lớn      | 4 hoặc 6 cột 
+
+## CÂU A3:
+
+| Chiều rộng màn hình | .container width |
+|--------------------|------------------|
+| 375px (iPhone SE)  | 100%             |
+| 600px              | 540px            |
+| 800px              | 720px            |
+| 1000px             | 960px            |
+| 1400px             | 1140px           |
